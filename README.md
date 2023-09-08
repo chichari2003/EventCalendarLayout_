@@ -1,3 +1,3 @@
 # EventCalendarLayout_
 
-# Devised a dynamic event calendar interface, endowing users with the capability to register events, accompanied by their respective dates, months, and years.
+# Designed a static event calendar interface using HTML and CSS, providing users with a visually appealing way to view and manage events. The calendar displays events with their respective dates, months, and years in a structured layout.
